@@ -2,7 +2,7 @@
 
 # Hi there, I'm Divyanshi! 👋
 
-### 🎓 MCA Student | 💻 Full Stack Developer | 🤖 AI Enthusiast
+### 🎓 MCA Student | 💻 Full Stack Developer | 🤖 Software Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshi8081-black?style=flat-square&logo=github)](https://github.com/divyanshi8081)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/divyanshi-shukla-41170024a)
