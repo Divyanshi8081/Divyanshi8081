@@ -80,8 +80,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshi8081&theme=tokyonight&no-frame=true&row=1&column=6)
+[Trophies](https://github-profile-trophy.vercel.app/?username=divyanshi8081&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
