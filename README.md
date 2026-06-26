@@ -5,7 +5,7 @@
 ### 🎓 MCA Student | 💻 Full Stack Developer | 🤖 AI Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshi8081-black?style=flat-square&logo=github)](https://github.com/divyanshi8081)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/divyanshi-shukla-41170024a)
 
 </div>
 
@@ -89,8 +89,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ywww.linkedin.com/in/divyanshi-shukla-41170024a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshishukla433@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshi8081)
 
 </div>
