@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing **MCA** from Shri Ramswaroop Memorial College of Engineering and Management, Lucknow
-- 🌱 Currently learning **Django, Python,Java, DSA, SQL, AI/ML, and Cloud Technologies, Full Stack Developmant.**
+- 🌱 Currently learning **Django, Python,Java, DSA, SQL, AI/ML, and Cloud Technologies, Full Stack Development.**
 - 💡 Passionate about software development and continuous learning
 - 🎯 Looking for opportunities in **Software Engineering** where I can gain hands-on experience, contribute to meaningful projects, and grow technically and professionally
 - 📍 Based in **Lucknow, India**
