@@ -60,18 +60,9 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![Divyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshi8081&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi8081&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshi8081&theme=tokyonight&hide_border=true)
-
-</div>
-
----
+![](https://github-readme-stats.shion.dev/api?username=Divyanshi8081&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Divyanshi8081&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divyanshi8081&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph
 
@@ -94,9 +85,23 @@
 ---
 
 <div align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanshi8081&color=6366f1&style=flat-square&label=Profile+Views)
 
 ⭐ **From [divyanshi8081](https://github.com/divyanshi8081)**
 
 </div>
+
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanshi-shukla-41170024a) -->
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Divyanshi8081&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Divyanshi8081&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divyanshi8081&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+
+
+---
+[![](https://komarev.com/ghpvc/?username=Divyanshi8081&icon=0&color=0)](https://visitcount.itsvg.in)
