@@ -92,7 +92,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanshi8081&color=6366f1&style=flat-square&label=Profile+Views)
 
 ⭐ **From [divyanshi8081](https://github.com/divyanshi8081)**
-
 </div>
 
 <!--🌐 Socials:
