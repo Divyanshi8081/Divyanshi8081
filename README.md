@@ -5,7 +5,7 @@
 ### 🎓 MCA Student | 💻 Full Stack Developer | 🤖 Software Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshi8081-black?style=flat-square&logo=github)](https://github.com/divyanshi8081)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/divyanshi-shukla-41170024a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/divyanshi-shukla-41170024a)
 
 </div>
 
